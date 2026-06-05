@@ -1,12 +1,14 @@
 # 🚖 Rapido Clone
 
-A responsive frontend clone of the Rapido website built using **HTML5** and **CSS3**. This project recreates the landing page design of the Rapido website with a clean, modern interface while focusing on responsive web design and frontend development fundamentals.
+A responsive frontend clone of the Rapido website built using **HTML5** and **CSS3**. This project currently recreates the **homepage** of the Rapido website with a clean, modern interface while focusing on responsive web design and frontend development fundamentals.
 
 ---
 
 ## 📌 Project Overview
 
 The Rapido Clone project is a frontend-only website that replicates the design and user experience of the Rapido homepage. The goal of this project is to practice building responsive layouts, styling web pages, and creating visually appealing interfaces using HTML and CSS.
+
+> **Note:** Currently, only the homepage has been developed. Additional pages and features will be added in future updates to create a more complete Rapido clone.
 
 ---
 
@@ -83,6 +85,7 @@ Through this project, I learned:
 
 ## 🌟 Future Improvements
 
+- Develop the remaining website pages
 - Add JavaScript functionality
 - Implement interactive components
 - Add animations and transitions
@@ -99,5 +102,4 @@ This project is a frontend clone created for educational purposes only. It is no
 
 ## 👨‍💻 Author
 
-Developed using HTML & CSS as a frontend practice project.
-Saquib Bin Halim
+Developed using HTML & CSS as a frontend practice project. Currently, only the homepage has been completed, and the rest of the website will be developed in future updates.
