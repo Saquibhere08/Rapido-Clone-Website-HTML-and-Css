@@ -1,6 +1,7 @@
     header{
         
         display: flex;
+        justify-content: center;
         justify-content: space-around;
         position: sticky;
         top: 0px;
@@ -11,6 +12,7 @@
      #child1{
          flex-grow: 3;
          display: flex;
+         justify-content: center;
          align-items: center;
          gap: 20px;
      }
@@ -21,7 +23,7 @@
         border-top-left-radius: 20px;
         border-top-right-radius: 20px;
         border-bottom-left-radius: 20px;
-        padding :10px 30px;        
+        padding :15px 30px;        
      }
      header>img{ 
         border-radius: 30px solid red;
