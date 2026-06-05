@@ -100,3 +100,4 @@ This project is a frontend clone created for educational purposes only. It is no
 ## 👨‍💻 Author
 
 Developed using HTML & CSS as a frontend practice project.
+Saquib Bin Halim
